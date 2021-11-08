@@ -1,0 +1,401 @@
+{
+  "KP117": {
+    "name": "Babylon ve směru od Německa",
+    "location": ["49.3934", "12.8602"]
+  },
+  "KP118": {
+    "name": "Babylon ve směru od H.Týna",
+    "location": ["49.3987", "12.8593"]
+  },
+  "KP546": { "name": "Bdeněves, II/605", "location": ["49.7691", "13.2293"] },
+  "KP119": {
+    "name": "Bělá nad Radbuzou, směr od Německa",
+    "location": ["49.5916", "12.7049"]
+  },
+  "KP120": {
+    "name": "Bělá nad Radbuzou, směr od H. Týna",
+    "location": ["49.59", "12.7169"]
+  },
+  "KP108": {
+    "name": "Bělá nad Radbuzou, směr od náměstí",
+    "location": ["49.5915", "12.715"]
+  },
+  "KP060": {
+    "name": "Benešovice, směr od Stříbra",
+    "location": ["49.7285", "12.9026"]
+  },
+  "KP072": {
+    "name": "Běšiny, směr od Klatov",
+    "location": ["49.3055", "13.3046"]
+  },
+  "KP073": {
+    "name": "Běšiny, směr od l/27",
+    "location": ["49.2987", "13.3091"]
+  },
+  "KP094": { "name": "Bor, směr od D5", "location": ["49.7156", "12.7775"] },
+  "KP116": {
+    "name": "Bor, směr od Přimdy",
+    "location": ["49.7094", "12.7721"]
+  },
+  "KP107": {
+    "name": "Bor, II/200 Plzeňská",
+    "location": ["49.7088", "12.7831"]
+  },
+  "KP082": { "name": "Brnířov od Kdyně", "location": ["49.3856", "13.0467"] },
+  "KP065": {
+    "name": "Broumov, směr od Plané",
+    "location": ["49.8892", "12.6083"]
+  },
+  "KP064": {
+    "name": "Broumov, směr od Německa",
+    "location": ["49.891", "12.5928"]
+  },
+  "KP059": {
+    "name": "Červené Poříčí, směr od Plzně",
+    "location": ["49.5024", "13.2943"]
+  },
+  "KP055": {
+    "name": "Česká Kubice, směr od Německa",
+    "location": ["49.3674", "12.856"]
+  },
+  "KP056": {
+    "name": "Česká Kubice, směr od Babylonu",
+    "location": ["49.3704", "12.8599"]
+  },
+  "KP109": {
+    "name": "Horní Folmava, I/26, směr od Německa",
+    "location": ["49.3432", "12.8514"]
+  },
+  "KP058": {
+    "name": "Dlouhá Ves, směr od Sušice",
+    "location": ["49.1961", "13.5066"]
+  },
+  "KP229": {
+    "name": "Dobřany, ulice tř. 1. máje",
+    "location": ["49.6548", "13.3007"]
+  },
+  "KP081": {
+    "name": "Domažlice, směr od Klatov",
+    "location": ["49.4352", "12.9472"]
+  },
+  "KP110": {
+    "name": "Domažlice, směr od od H.Týna",
+    "location": ["49.4472", "12.9322"]
+  },
+  "KP111": {
+    "name": "Domažlice, směr od Draženova",
+    "location": ["49.4424", "12.9162"]
+  },
+  "KP104": {
+    "name": "Halže - Branka, II/199 od Německa",
+    "location": ["49.825", "12.5241"]
+  },
+  "KP051": {
+    "name": "Holýšov, směr od Plzně",
+    "location": ["49.5973", "13.1049"]
+  },
+  "KP112": {
+    "name": "Horažďovice, směr od Klatov",
+    "location": ["49.3243", "13.6832"]
+  },
+  "KP113": {
+    "name": "Horažďovice, směr od Strakonic",
+    "location": ["49.3184", "13.7184"]
+  },
+  "KP114": {
+    "name": "Horažďovice, směr od Velkého Boru",
+    "location": ["49.3254", "13.7005"]
+  },
+  "KP066": {
+    "name": "Horšovský Týn, směr od Boru",
+    "location": ["49.5327", "12.9326"]
+  },
+  "KP067": {
+    "name": "Horšovský Týn, směr od Stříbra",
+    "location": ["49.5333", "12.9444"]
+  },
+  "KP068": {
+    "name": "Horšovský Týn, směr od Bělé",
+    "location": ["49.5283", "12.9223"]
+  },
+  "KP106": {
+    "name": "Horšovský Týn, směr na přechodu od Plzně",
+    "location": ["49.528", "12.9475"]
+  },
+  "KP105": {
+    "name": "Horšovský Týn, směr na přechodu od Německa",
+    "location": ["49.5253", "12.9379"]
+  },
+  "KP091": {
+    "name": "Hostouň, směr od Bělé",
+    "location": ["49.5634", "12.7791"]
+  },
+  "KP100": {
+    "name": "Chodová Planá, směr od Chebu",
+    "location": ["49.894", "12.7298"]
+  },
+  "KP075": {
+    "name": "Janovice nad Úhlavou, směr od Klatov",
+    "location": ["49.3441", "13.22"]
+  },
+  "KP076": {
+    "name": "Janovice nad Úhlavou, směr od Německa",
+    "location": ["49.3425", "13.2157"]
+  },
+  "KP102": {
+    "name": "Kašperské Hory, směr od Vimperka ",
+    "location": ["49.1453", "13.5616"]
+  },
+  "KP199": {
+    "name": "Kaznějov I/20 směr od Plzně",
+    "location": ["49.8913", "13.3851"]
+  },
+  "KP200": {
+    "name": "Kaznějov I/20 směr od Plas",
+    "location": ["49.8975", "13.3769"]
+  },
+  "KP123": {
+    "name": "Klatovy - Štěpánovice, směr od Plzně",
+    "location": ["49.4291", "13.2859"]
+  },
+  "KP124": {
+    "name": "Klatovy směr od Horažďovic",
+    "location": ["49.3875", "13.3018"]
+  },
+  "KP125": {
+    "name": "Klatovy směr od Železné Rudy",
+    "location": ["49.3716", "13.3005"]
+  },
+  "KP126": {
+    "name": "Klatovy - Plzeňská, směr z centra",
+    "location": ["49.4066", "13.2944"]
+  },
+  "KP127": {
+    "name": "Klatovy - Domažlická, směr z centra",
+    "location": ["49.3939", "13.2816"]
+  },
+  "KP128": {
+    "name": "Klatovy směr od Domažlic",
+    "location": ["49.3928", "13.278"]
+  },
+  "KP129": {
+    "name": "Klatovy směr od Dolan",
+    "location": ["49.4047", "13.2792"]
+  },
+  "KP130": {
+    "name": "Klatovy směr od Plánice",
+    "location": ["49.3962", "13.3108"]
+  },
+  "KP061": {
+    "name": "Klenčí pod Čerchovem, směr od Německa",
+    "location": ["49.4318", "12.8112"]
+  },
+  "KP062": {
+    "name": "Klenčí pod Čerchovem, směr od Domažlic",
+    "location": ["49.4373", "12.8179"]
+  },
+  "KP057": {
+    "name": "Kolinec, směr od Sušice",
+    "location": ["49.2972", "13.4437"]
+  },
+  "KP203": {
+    "name": "Kozolupy II/605 od Plzně",
+    "location": ["49.7629", "13.2599"]
+  },
+  "KP202": {
+    "name": "Kralovice, Manětínská",
+    "location": ["49.9824", "13.4745"]
+  },
+  "KP201": { "name": "Kralovice, Žatecká", "location": ["49.985", "13.4891"] },
+  "KP069": {
+    "name": "Libkov, směr od Klatov",
+    "location": ["49.3669", "13.1345"]
+  },
+  "KP192": {
+    "name": "Losiná I/20, směr Nepomuk",
+    "location": ["49.6715", "13.4539"]
+  },
+  "KP193": {
+    "name": "Losiná I/20, směr Plzeň",
+    "location": ["49.6677", "13.4594"]
+  },
+  "KP079": {
+    "name": "Mochtín - Kocourov, směr od Horažďovic",
+    "location": ["49.3589", "13.385"]
+  },
+  "KP080": {
+    "name": "Mochtín, směr od Klatov",
+    "location": ["49.3621", "13.3515"]
+  },
+  "KP088": {
+    "name": "Modrava, směr od Srní",
+    "location": ["49.0248", "13.4985"]
+  },
+  "KP089": {
+    "name": "Modrava - Filipova Huť, směr od Kvildy",
+    "location": ["49.0286", "13.5181"]
+  },
+  "KP070": {
+    "name": "Mířkov, směr od Boru",
+    "location": ["49.5913", "12.8762"]
+  },
+  "KP090": {
+    "name": "Nemanice, směr od Poběžovic",
+    "location": ["49.4388", "12.7217"]
+  },
+  "KP121": {
+    "name": "Nemanice, směr od Německa Lísková",
+    "location": ["49.4186", "12.7149"]
+  },
+  "KP196": {
+    "name": "Nepomuk I/20, směr Blatná",
+    "location": ["49.4838", "13.573"]
+  },
+  "KP198": {
+    "name": "Nezvěstice I/19, směr Spálené Poříčí",
+    "location": ["49.6432", "13.5119"]
+  },
+  "KP083": {
+    "name": "Nýrsko Klostermannova",
+    "location": ["49.2875", "13.1461"]
+  },
+  "KP098": {
+    "name": "Nýrsko, směr od Svaté Kateřiny",
+    "location": ["49.2879", "13.1348"]
+  },
+  "KP099": {
+    "name": "Nýrsko, směr od Chudenína",
+    "location": ["49.2912", "13.135"]
+  },
+  "KP084": {
+    "name": "Nýrsko, směr od Ž.Rudy",
+    "location": ["49.2955", "13.1507"]
+  },
+  "KP101": {
+    "name": "Planá, směr do Plzně",
+    "location": ["49.8663", "12.7327"]
+  },
+  "KP085": {
+    "name": "Planá, směr do Chebu",
+    "location": ["49.8667", "12.7328"]
+  },
+  "KP195": { "name": "Plasy", "location": ["49.9371", "13.3945"] },
+  "KP087": {
+    "name": "Plánice, směr od Klatov",
+    "location": ["49.3924", "13.4652"]
+  },
+  "KP071": {
+    "name": "Poběžovice, směr od Klenčí",
+    "location": ["49.5071", "12.8017"]
+  },
+  "KP122": {
+    "name": "Pocinovice ve směru od Nýrska",
+    "location": ["49.3385", "13.135"]
+  },
+  "KP204": { "name": "Přeštice", "location": ["49.5831", "13.3268"] },
+  "KP135": {
+    "name": "Přimda směr od Boru",
+    "location": ["49.6741", "12.6788"]
+  },
+  "KP136": {
+    "name": "Přimda směr od Rozvadova",
+    "location": ["49.6745", "12.6703"]
+  },
+  "KP095": {
+    "name": "Rozvadov, směr od Německa",
+    "location": ["49.6674", "12.5506"]
+  },
+  "KP096": {
+    "name": "Rozvadov, směr od Přimdy",
+    "location": ["49.6748", "12.5595"]
+  },
+  "KP115": {
+    "name": "Srní, směr od Rejštejna ",
+    "location": ["49.0876", "13.4807"]
+  },
+  "KP053": {
+    "name": "Staňkov - Ohučov, I/26",
+    "location": ["49.5686", "13.0778"]
+  },
+  "KP191": {
+    "name": "Starý Plzenec, II/180, Bezručova ulice",
+    "location": ["49.6969", "13.4618"]
+  },
+  "KP194": {
+    "name": "Stod, Plzeňská I/26",
+    "location": ["49.6454", "13.1709"]
+  },
+  "KP074": {
+    "name": "Stráž - Bonětice, směr od H. Týna",
+    "location": ["49.6648", "12.8254"]
+  },
+  "KP097": {
+    "name": "Stříbro, směr od Boru",
+    "location": ["49.7525", "12.9863"]
+  },
+  "KP086": {
+    "name": "Stříbro, směr od centra",
+    "location": ["49.7487", "12.999"]
+  },
+  "KP131": {
+    "name": "Sušice, směr od Dlouhé Vsi",
+    "location": ["49.2266", "13.5199"]
+  },
+  "KP132": {
+    "name": "Sušice, směr od Petrovic",
+    "location": ["49.2203", "13.5085"]
+  },
+  "KP103": {
+    "name": "Sušice, směr od Horažďovic",
+    "location": ["49.2411", "13.5294"]
+  },
+  "KP133": {
+    "name": "Sušice, Hrádecká ul. u nákupních center",
+    "location": ["49.2406", "13.5205"]
+  },
+  "KP063": {
+    "name": "Tachov, směr od Plané",
+    "location": ["49.8052", "12.6417"]
+  },
+  "KP052": {
+    "name": "Tachov, směr od Plzně",
+    "location": ["49.7906", "12.65"]
+  },
+  "KP054": {
+    "name": "Tachov, směr od Halže",
+    "location": ["49.8044", "12.6347"]
+  },
+  "KP197": {
+    "name": "Vejprnice II/203 od Plzně",
+    "location": ["49.732", "13.2802"]
+  },
+  "KP077": {
+    "name": "Všeruby - Brůdek, směr od Kdyně",
+    "location": ["49.3674", "13.0102"]
+  },
+  "KP078": {
+    "name": "Všeruby, směr od Německa",
+    "location": ["49.3408", "12.9836"]
+  },
+  "KP205": {
+    "name": "Zbůch silnice I/26 od Stodu",
+    "location": ["49.677", "13.2238"]
+  },
+  "KP206": {
+    "name": "Zbůch silnice I/26 od Plzně",
+    "location": ["49.6848", "13.2365"]
+  },
+  "KP092": {
+    "name": "Železná Ruda - Alžbětín, směr od Německa",
+    "location": ["49.1255", "13.2122"]
+  },
+  "KP093": {
+    "name": "Železná Ruda - Špičák, směr od Nýrska",
+    "location": ["49.1612", "13.2265"]
+  },
+  "KP134": {
+    "name": "Železná Ruda - město, Klatovská na I/27 od Klatov",
+    "location": ["49.1411", "13.2445"]
+  },
+  "KP207": { "name": "Žákava, III/1777", "location": ["49.632", "13.5251"] }
+}
